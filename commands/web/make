@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+#ddev-generated
+## Description: Run make inside the web container
+## Usage: make [flags] [args]
+## Example: "ddev make"
+## ExecRaw: true
+## HostWorkingDir: true
+
+make "$@"

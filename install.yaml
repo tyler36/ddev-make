@@ -1,0 +1,6 @@
+#ddev-generated
+name: ddev-make
+
+project_files:
+  - config.make.yaml
+  - commands/web/make
